@@ -2,15 +2,8 @@ welcome to github
 
 <<<<<<< HEAD
 wELCOME TO my wolrd
-:wq
 
 =======
 Hello
+Welcome to online git hub 
 
-
-Wlcome to online git hub 
-
-mahen
-
-ncdjwn
->>>>>>> feature3
